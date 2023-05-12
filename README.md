@@ -3,6 +3,7 @@ A console application written in Java that allows you to create a bot that can a
 <br>
 This application allows you to create a bot that can automate any task that you do on the computer. 
 <br>
+<br>
 In order for this application to work, you must add the JNativeHook third party library as a dependency. The JAR file can be found in the JNativeHook folder on this repository. This library allows this application to listen for global keyboard events and global mouse events. To add the JNativeHook .JAR file as a dependency, if you are using IntelliJ Idea Community Edition, click on File > Project Structure > Modules > Module Source > + > JARS or Directories > then navigate to the folder that contains the JNativeHook .JAR file.
 
 <br>
@@ -18,6 +19,7 @@ Main menu:
 <br>
 5.Exit. (Exit out of the application)
 
+<br>
 <br>
 
 Create an action:
