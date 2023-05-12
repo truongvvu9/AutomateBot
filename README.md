@@ -49,6 +49,7 @@ Run an action:
 <br>
 This option allows you to get the bot to automate the task that you just created or loaded. This option has two sub-options: 1. Run action by number of times 2. Run action indefinitely. The first option allows you to input how many times you want the bot to perform this task. The second option will make the bot perform the task indefinitely, until you manually close the application.
 <br>
+<br>
 Save an action:
 <br>
 This option allows you to save the task which contains the string instructions that you just created to a text file so that you can load it in the future.
